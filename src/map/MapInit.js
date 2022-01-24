@@ -17,7 +17,7 @@
         const mapEl = document.querySelector('smglobe-gmap');
 
         mapEl.innerHTML = `
-          <div class="hearbyMap js-map">
+          <div class="js-map">
           </div>
           `;
         // set defaults for now
